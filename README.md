@@ -17,8 +17,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dauleduc2&theme=dracula)](https://git.io/streak-stats)
 
-<p align="center">
-    <a href="https://github.com/dauleduc2">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dauleduc2&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-</p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dauleduc2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
