@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I am Duc<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"><img src="images/dog.gif" width=20%>
 
-<!--
-**dauleduc2/dauleduc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dauleduc2&theme=dracula)](https://git.io/streak-stats)
