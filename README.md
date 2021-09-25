@@ -19,4 +19,6 @@
     <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dauleduc2&layout=compact&theme=radical&langs_count=10" />
   </div>
 
+<div></div>
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dauleduc2&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
