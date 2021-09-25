@@ -15,13 +15,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-<div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img align="center" style="margin-right:20px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dauleduc2&layout=compact&theme=radical&langs_count=10" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dauleduc2&theme=radical)](https://git.io/streak-stats)
-
+    <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dauleduc2&layout=compact&theme=radical&langs_count=10" />
   </div>
-</div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dauleduc2&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
