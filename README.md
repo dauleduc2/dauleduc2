@@ -1,4 +1,7 @@
-# Hello, I am Duc<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"><img src="images/dog.gif" width=20%>
+<p>
+  <h1 align="center"><b>Hello, Welcome to my Profile!</b><img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" width="100"> </h1>
+    
+</p>
 
 ### Languages
 
@@ -13,3 +16,9 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dauleduc2&theme=dracula)](https://git.io/streak-stats)
+
+<p align="center">
+    <a href="https://github.com/dauleduc2">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dauleduc2&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
