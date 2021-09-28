@@ -1,8 +1,11 @@
 <p>
   <h1 align="center"><b>Hi, Welcome to my Profile!</b> 
   <img src="https://thumbs.gfycat.com/RecklessEagerGraysquirrel-max-1mb.gif" width="100"/></h1>
-  <h4>"Challenge?  That's good for me"</h4>
+  
+  <p align="center" ><i >" Challenge?  That's good for me "</i></p>
+  
 </p>
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
