@@ -1,9 +1,6 @@
 <p>
   <h1 align="center"><b>Hi, Welcome to my Profile!</b> 
   <img src="https://thumbs.gfycat.com/RecklessEagerGraysquirrel-max-1mb.gif" width="100"/></h1>
-    
-</p>
-<p align="center">
   <h4>"Challenge?  That's good for me"</h4>
 </p>
 ### Languages
