@@ -3,22 +3,31 @@
   <img src="https://thumbs.gfycat.com/RecklessEagerGraysquirrel-max-1mb.gif" width="100"/>
   <h4 align="center"><i>" Challenge?  That's good for me "</i></h4>
   </h1>
-  
-  
-  
+
 </p>
 
-### Languages
+<!-- ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+<p align="left">
+ <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" />
+<img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+      alt="typescript" width="40" height="40" />
+<img
+      src="https://www.svgrepo.com/show/303388/java-4-logo.svg"
+      alt="java" width="40" height="40" />
+
+</p>
 
 ### Technologies
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dauleduc2&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif"  width="200" style="margin-left:50px;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dauleduc2&show_icons=true&theme=radical)
+<p align="left">
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="ReactJS" width="40" height="40" />
+<img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
+      alt="NextJS" width="" height="40" />
+</p> -->
