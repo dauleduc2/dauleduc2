@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi, Welcome to my Profile!</b>
+  <h1 align="center"><b>Hi, Welcome to my Profile</b>
   <h4 align="center"><i>" Challenge?  That's good for me "</i></h4>
 </h1>
 
